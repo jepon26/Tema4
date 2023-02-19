@@ -50,7 +50,7 @@ String season = "spring";
               System.out.println("It is fall");
               break;
          case "winter":
-             System.out.println("It is winte");
+             System.out.println("It is winter");
              break;
              default:
                  System.out.println("It is not a season");
